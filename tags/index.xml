@@ -8,29 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Basic Elements</title>
-      <link>/tags/basic-elements/</link>
+      <title>Bioinformatics</title>
+      <link>/tags/bioinformatics/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/basic-elements/</guid>
+      <guid>/tags/bioinformatics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CSS</title>
-      <link>/tags/css/</link>
+      <title>BT</title>
+      <link>/tags/bt/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/css/</guid>
+      <guid>/tags/bt/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HTML</title>
-      <link>/tags/html/</link>
+      <title>IT</title>
+      <link>/tags/it/</link>
       <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>/tags/it/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic_biology</title>
+      <link>/tags/synthetic_biology/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/synthetic_biology/</guid>
       <description></description>
     </item>
     
